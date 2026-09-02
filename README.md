@@ -81,7 +81,7 @@ Evaluated warehouses based on:
 CTEs were used to support warehouse-level analysis.
 ### Task 4 – Warehouse Performance
 
-![Task 4 Dashboard](Results/screenshots/Task-4-Dashboard.png)
+![Task 4 Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-4-Dashboard.png?raw=true)
 
 ---
 ### Task 5 – Delivery Agent Performance
