@@ -95,9 +95,9 @@ Analyzed delivery-agent performance using:
 - Training and workload-balancing opportunities.
 ### Task 5 – Delivery Agent Performance
 
-![Task 5 Dashboard](Results/screenshots/Task-5-Dashboard.png)
+![Task 5 Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-5-Dashboard.png?raw=true)
 
-![Task 5B Dashboard](Results/screenshots/Task-5b-Dashboard.png)
+![Task 5B Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-5b-Dashboard.png?raw=true)
 
 ---
 ### Task 6 – Shipment Tracking Analytics
@@ -112,7 +112,7 @@ Analyzed:
 - Exceptionally delayed orders.
 ### Task 6 – Shipment Tracking
 
-![Task 6 Dashboard](Results/screenshots/Task-6-Dashboard.png)
+![Task 6 Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-6-Dashboard.png?raw=true)
 
 ---
 ### Task 7 – Advanced KPI Reporting
@@ -125,7 +125,8 @@ Calculated key logistics KPIs including:
 - Warehouse utilization percentage.
 ### Task 7 – KPI Reporting
 
-![Task 7 Dashboard](Results/screenshots/Task-7-Dashboard.png)
+![Task 7 Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-7-Dashboard.png?raw=true)
+
 ---
 
 ## 🛠️ Tools & Technologies
