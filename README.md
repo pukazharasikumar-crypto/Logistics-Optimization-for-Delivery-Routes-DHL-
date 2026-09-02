@@ -65,7 +65,7 @@ Potential route and hub optimization opportunities were identified from the anal
 
 ![Task 3A Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-3a-Dashboard.png?raw=true)
 
-![Task 3B Dashboard](Results/screenshots/Task-3b-Dashboard.png)
+![Task 3B Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-3b-Dashboard.png?raw=true)
 
 ---
 ### Task 4 – Warehouse Performance
