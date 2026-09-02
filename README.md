@@ -46,7 +46,7 @@ Analyzed:
 - Average delay by delivery type.
 ### Task 2 – Delivery Delay Analysis
 
-![Task 2 Dashboard](Results/screenshots/Task-2-Dashboard.png)
+![Task 2 Dashboard](https://github.com/pukazharasikumar-crypto/Logistics-Optimization-for-Delivery-Routes-DHL-/blob/main/LOGISTICS%20OPTIMIZATION%20PROJECT-pukazharasikumar@gmail.com/sqlimage/Task-2-Dashboard.png?raw=true)
 
 ---
 
@@ -208,38 +208,6 @@ Calculated key logistics KPIs including:
 | Warehouse Utilization % | Measures warehouse capacity usage |
 | Delayed Shipment Count | Identifies operational problems |
 | Agent On-Time % | Evaluates delivery-agent performance |
-
----
-
-## 📸 Dashboard & Analysis Results
-
-### Task 2 – Delivery Delay Analysis
-
-![Task 2 Dashboard](Results/screenshots/Task-2-Dashboard.png)
-
-### Task 3 – Route Optimization
-
-![Task 3A Dashboard](Results/screenshots/Task-3a-Dashboard.png)
-
-![Task 3B Dashboard](Results/screenshots/Task-3b-Dashboard.png)
-
-### Task 4 – Warehouse Performance
-
-![Task 4 Dashboard](Results/screenshots/Task-4-Dashboard.png)
-
-### Task 5 – Delivery Agent Performance
-
-![Task 5 Dashboard](Results/screenshots/Task-5-Dashboard.png)
-
-![Task 5B Dashboard](Results/screenshots/Task-5b-Dashboard.png)
-
-### Task 6 – Shipment Tracking
-
-![Task 6 Dashboard](Results/screenshots/Task-6-Dashboard.png)
-
-### Task 7 – KPI Reporting
-
-![Task 7 Dashboard](Results/screenshots/Task-7-Dashboard.png)
 
 ---
 
