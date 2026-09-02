@@ -1,0 +1,2 @@
+# Logistics-Optimization-for-Delivery-Routes-DHL-
+SQL-based DHL logistics analytics project focused on delivery delays, route optimization, warehouse performance, delivery-agent analysis, shipment tracking, and KPI reporting.
